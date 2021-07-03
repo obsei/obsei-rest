@@ -30,7 +30,9 @@
     </a>
 </p>
 
-This is rest api playground on Obsei.
+This is rest api playground on Obsei. 
+
+**Note this is work in progress test platground hence things may not be updated with latest Obsei changes**
 
 ## Rest interface
 Start docker with default configuration file:
